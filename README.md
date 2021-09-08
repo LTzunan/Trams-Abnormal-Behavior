@@ -1,8 +1,6 @@
 # Trams-Abnormal-Behavior
 Detection of abnormal behavior in trams
 
-[TOC]
-
 ### 代码整体流程图：
 
 ![image-20210907154615579](http://ltzunanimage.oss-cn-shenzhen.aliyuncs.com/img/image-20210907154615579.png)
